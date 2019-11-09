@@ -1,5 +1,8 @@
 import pygame
 
+#this is a comment,just for practice
+def test():
+    print("just a test")
 pygame.init()
 display_width = 600
 display_height = 400
